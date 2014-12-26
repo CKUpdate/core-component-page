@@ -1,0 +1,12 @@
+{
+  "name": "core-component-page",
+  "repository": "git@github.com:CKUpdate/core-component-page.git",
+  "version": "0.0.1",
+  "dependencies": {
+    "webcomponentsjs": "CKUpdate/webcomponentsjs#master",
+    "polymer": "CKUpdate/polymer#master"
+  },
+  "keywords": [
+    "flatten"
+  ]
+}
